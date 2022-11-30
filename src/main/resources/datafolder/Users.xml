@@ -1,0 +1,14 @@
+<UserWrapper>
+  <users>
+    <users>
+      <name>admin</name>
+      <password>1111</password>
+      <roles>ADMIN</roles>
+    </users>
+    <users>
+      <name>user</name>
+      <password>2222</password>
+      <roles>USER</roles>
+    </users>
+  </users>
+</UserWrapper>

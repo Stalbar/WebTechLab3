@@ -1,0 +1,32 @@
+<StudentsWrapper>
+  <students>
+    <students>
+      <cardNum>0510001</cardNum>
+      <faculty>FKSIS</faculty>
+      <specialty>POIT</specialty>
+      <name>sdgesg</name>
+      <surname>dsgaqwf</surname>
+    </students>
+    <students>
+      <cardNum>0510002</cardNum>
+      <faculty>FKSIS</faculty>
+      <specialty>POIT</specialty>
+      <name>gher</name>
+      <surname>ghnfd</surname>
+    </students>
+    <students>
+      <cardNum>0510003</cardNum>
+      <faculty>FKSIS</faculty>
+      <specialty>POIT</specialty>
+      <name>fghsf</name>
+      <surname>tryer</surname>
+    </students>
+    <students>
+      <cardNum>0510094</cardNum>
+      <faculty>FKSIS</faculty>
+      <specialty>POIT</specialty>
+      <name>nhgbgsd</name>
+      <surname>rgegr</surname>
+    </students>
+  </students>
+</StudentsWrapper>
